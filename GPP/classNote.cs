@@ -295,6 +295,16 @@ Singleton Pattern
         파사드 패턴
 잘 모르겠네...
 
+0516 수업
 
+restful api?
+rest api?
+
+hugging face 찾아보기
+streamlit vs Dash (UI,UX)
+fast api vs flask
+
+다음시간
+flask, dash, streamlit 등을 이용해볼거임
 
 */
